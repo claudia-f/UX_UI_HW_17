@@ -24,22 +24,25 @@ ul {
 }
 
 .heroImg {
-    height: 600px;
+    height: 700px;
     padding: 25px;
 }
 
 .content {
-    width: 400px;
+    width: 1300px;
     margin: 0 auto;
     float: left;
 }
 
 footer {
     background-color: #81cae3;
+    padding: 25px;
 
 }
 
 ul.footer {
     display: inline-block;
     vertical-align: top;
+    padding: 40px;
+    text-align: center;
 }
